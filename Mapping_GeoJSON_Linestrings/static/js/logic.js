@@ -145,3 +145,5 @@ legend.onAdd = function() {
     
   }));
 });
+
+//Code now works//
